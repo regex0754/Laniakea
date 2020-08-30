@@ -1,1 +1,1 @@
-# Laniakea
+Collection of Datastructures and Algorithms
