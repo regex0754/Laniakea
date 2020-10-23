@@ -1,8 +1,9 @@
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][https://github.com/regex0754/Laniakea/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/regex0754/Laniakea/network/members]
-[![Stargazers][stars-shield]][https://github.com/regex0754/Laniakea/stargazers]
-[![MIT License][license-shield]][https://github.com/harshith331/Laniakea/blob/master/LICENSE]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 
 
